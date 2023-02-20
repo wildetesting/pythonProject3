@@ -7,6 +7,13 @@ class Parrot:
     name = ""
     age = 0
 
+    #class functions
+    def eat(self):
+        print("I can eat")
+
+    def sleep(self):
+        print("I can sleep")
+
 
 
 # Press the green button in the gutter to run the script.
